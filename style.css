@@ -18,6 +18,8 @@ section {
   margin-bottom: 30px;
   padding: 15px;
   border: 1px solid black;
+  border-style: dotted; /* Bordures en pointillés */
+
   background-color: #f0f0f0; /* Couleur de fond identique à celle du header */
 }
 

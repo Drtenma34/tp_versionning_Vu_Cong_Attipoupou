@@ -5,4 +5,4 @@ Date : 12/01/24
 Membres : 
 
 David Vu Cong
-David Attipoupou
+David Attipoupou (ticket 2)
