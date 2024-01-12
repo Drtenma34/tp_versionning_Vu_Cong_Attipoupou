@@ -18,11 +18,14 @@ section {
   margin-bottom: 30px;
   padding: 15px;
   border: 1px solid black;
+
+  border-radius: 20px;
+
   border-style: dotted; /* Bordures en pointillés */
 
   background-color: #f0f0f0; /* Couleur de fond identique à celle du header */
-}
 
+}
 
 h2 {
   margin-bottom: 10px;
@@ -34,3 +37,4 @@ footer {
   background-color: #333;
   color: white;
 }
+
